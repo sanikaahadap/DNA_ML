@@ -1,1 +1,1 @@
-# DNA_ML
+# DNA Sequence Classification
